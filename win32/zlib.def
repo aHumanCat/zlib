@@ -83,4 +83,4 @@ EXPORTS
     inflateUndermine
     inflateResetKeep
     deflateResetKeep
-    gzopen_w
+ ;   gzopen_w  not needed for cygwin
